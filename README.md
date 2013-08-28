@@ -1,4 +1,4 @@
 angular-node-dev-box
 ====================
 
-Vagrant box for developing Web Apps using AngularJS and NodeJS
+Vagrant box for developing Web Apps using AngularJS and Node/Express
