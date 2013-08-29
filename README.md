@@ -57,4 +57,26 @@ To shutdown the vm:
 
 You can always check out the Vagrant docs [here](http://docs.vagrantup.com/v2/)
 
+## Chef Cookbooks
 
+[Chef](http://www.opscode.com/chef/) is an automation platform that automates the installation and configuration of the components inside the vm(see [What's in it](#whats-in-it)). Chef is an example of a Vagrant [provision](http://docs.vagrantup.com/v2/provisioning/index.html). Cookbooks contain the instructions on how to install the components. For more information check out the Vagrant's [docs](http://docs.vagrantup.com/v2/provisioning/chef_solo.html) or Chef's [docs](http://docs.opscode.com/).
+
+### From Opscode
+
+* apt - <https://github.com/opscode-cookbooks/apt>
+
+* build-essential - <https://github.com/opscode-cookbooks/build-essential>
+
+* git - <https://github.com/opscode-cookbooks/git>
+
+### From the Community
+
+* NodeJS - <https://github.com/mdxp/nodejs-cookbook>
+
+### Custom
+
+NOTE: These were made and tested specifically for this platform.
+
+* MongoDB
+
+* Yeoman 
