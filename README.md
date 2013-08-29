@@ -1,4 +1,4 @@
-# angular-node-dev-box
+# Virtual Machine for learning NodeJS
 
 ## Introduction
 
