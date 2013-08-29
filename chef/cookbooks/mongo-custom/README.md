@@ -4,7 +4,7 @@ A custom cookbook that installs mongodb on ubuntu
 
 ## Requirements
 
-* [Opscode APT cookbook](https://github.com/opscode-cookbooks/apt)
+* [Opscode apt cookbook](https://github.com/opscode-cookbooks/apt)
 
 ## Recipes
 
