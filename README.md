@@ -22,7 +22,7 @@ When you're done installing the requirements, run the following commands:
 	$ git submodule update
 	$ vagrant up
 
-The first command gets a copy of this project from github and puts it on the nodejs-dev-box folder. The second command goes into that folder. And the last command starts the configuration of your development environment(NOTE: this will take a while, since it will also install several components, see [What's in it](#whats-in-it)).
+The first command gets a copy of this project from github and puts it on the nodejs-dev-box folder. The second command goes into that folder. The 3rd and 4th commands gets the files from the [other repos](#from-opscode). And the last command starts the configuration of your development environment(NOTE: this will take a while, since it will also install several components, see [What's in it](#whats-in-it)).
 
 This configuration also forwards port 8080 on the host machine to port 8888 on the virtual machine.
 
