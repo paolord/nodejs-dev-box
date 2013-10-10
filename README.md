@@ -30,7 +30,7 @@ Use this command to access the virtual machine:
 	
 	$ vagrant ssh
 
-If you're on windows, you may have to use [PuTTY](http://www.putty.org) or other windows SSH clients. Check out this [question](http://stackoverflow.com/questions/9885108/ssh-to-vagrant-box-in-windows) on stackoverflow for more details.
+If you're on windows, you may have to use [PuTTY](http://www.putty.org) or other windows SSH clients. Check out this [question](http://stackoverflow.com/questions/9885108/ssh-to-vagrant-box-in-windows) on stackoverflow and this [gist](https://gist.github.com/haf/2843680) for more details.
 
 ## What's in it
 
